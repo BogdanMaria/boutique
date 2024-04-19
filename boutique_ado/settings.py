@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-nbjm(_v06sm4x0apsg40a!9mc=$m+b^q$@4y*9x#9jw)j%3&5@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-bogdanmaria-boutique-bntcrc7kd3.us1.codeanyapp.com']
+ALLOWED_HOSTS = ['8000-bogdanmaria-boutique-at4ozvz0snw.ws-eu110.gitpod.io']
 
 
 # Application definition
